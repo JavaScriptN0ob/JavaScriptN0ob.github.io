@@ -211,11 +211,11 @@ main {
   width: 45%;
   margin-left: 5%;
   padding: 10px;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 .aboutMe__title {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   font-weight: 600;
   margin-top: 20px;
 }
@@ -223,8 +223,8 @@ main {
 .aboutMe__description {
   /* border: 1px solid green; */
   width: 98%;
-  margin-top: 30px;
-  font-size: 0.85rem;
+  margin-top: 20px;
+  font-size: 0.75rem;
 }
 
 .personalInfoWrapper {
@@ -262,6 +262,7 @@ td {
   list-style: none;
   padding-left: 15px;
   margin-top: 30px;
+  font-size: 0.75rem;
 }
 
 .personalInfo__title {
@@ -270,7 +271,6 @@ td {
   display: inline-block;
   min-width: 100px;
   margin-bottom: 10px;
-  font-size: 0.9rem;
 }
 
 .personalInfo__value {
@@ -951,7 +951,7 @@ td {
   /* border: 1px solid blue; */
   display: flex;
   flex-direction: row;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   border-bottom: 2px solid rgba(0, 0, 0, 0.2);
   position: relative;
   /* transition: all 3s ease-in-out; */
